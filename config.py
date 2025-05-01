@@ -1,5 +1,5 @@
 import pandas as pd
-git
+
 # Read data
 df_telco = pd.read_csv('data/telco.csv')
 
