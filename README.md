@@ -20,16 +20,16 @@ This repository contains the code for analyzing customer churn risk using Accele
 ```bash
 git clone https://github.com/yourusername/churn-clv-analysis.git
 cd churn-clv-analysis
-
+ ```
 ### 2️⃣ Set up the environment
 
 ```bash
 pip install -r requirements.txt
-
+```
 ### 3️⃣  Run the notebook
-
+```bash
 jupyter main
-
+```
 Then open `main.ipynb` and follow the cells step by step.
 
 ## 🛠 Main Features
